@@ -1,1 +1,4 @@
-# AZ-900
+- Olá, seja bem vindo(a) ao GitHub do Canal da Cloud, neste link temos o conteúdo completo da série de certificação AZ-900! 😎
+- Todo o curso foi baseado na documentação oficial visando o seu PASS nesta certificação!
+- Acompanhe esta trilha no You Tube
+- 👉 https://www.youtube.com/watch?v=4ub1uGKQK6U&list=PLz3hnOImntANgM1EyWSGkY4v-7dhWURWt
